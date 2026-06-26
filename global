@@ -1,0 +1,31 @@
+global-partnership-platform/
+│
+├── README.md
+├── LICENSE
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+├── SECURITY.md
+│
+├── docs/
+│   ├── vision.md
+│   ├── partnership-framework.md
+│   ├── gots-registration-process.md
+│   ├── compliance.md
+│   └── roadmap.md
+│
+├── templates/
+│   ├── partnership-email.md
+│   ├── nda-template.md
+│   └── mou-template.md
+│
+├── data/
+│   ├── partners.csv
+│   ├── certifications.csv
+│   └── countries.csv
+│
+├── src/
+│   └── app/
+│
+└── .github/
+    └── workflows/
+        └── ci.yml
